@@ -1,0 +1,143 @@
+{
+  "league": "League2 Ontario Northeast Division (W)",
+  "source": "live_scrape",
+  "divisions": [
+    {
+      "name": "2025 Women League 2 Northeast Division",
+      "teams": [
+        {
+          "name": "WOODBRIDGE STRIKERS L2 WOMEN",
+          "GP": 14,
+          "W": 11,
+          "L": 2,
+          "T": 1,
+          "PTS": 34,
+          "GF": 40,
+          "GA": 11,
+          "GD": 29
+        },
+        {
+          "name": "ALLIANCE UNITED L2 WOMEN",
+          "GP": 14,
+          "W": 9,
+          "L": 4,
+          "T": 1,
+          "PTS": 28,
+          "GF": 24,
+          "GA": 15,
+          "GD": 9
+        },
+        {
+          "name": "PICKERING FC L2 WOMEN",
+          "GP": 14,
+          "W": 8,
+          "L": 4,
+          "T": 2,
+          "PTS": 26,
+          "GF": 29,
+          "GA": 16,
+          "GD": 13
+        },
+        {
+          "name": "SCROSOPPI FC L2 WOMEN",
+          "GP": 14,
+          "W": 7,
+          "L": 4,
+          "T": 3,
+          "PTS": 24,
+          "GF": 30,
+          "GA": 15,
+          "GD": 15
+        },
+        {
+          "name": "NORTH TORONTO L2 WOMEN",
+          "GP": 14,
+          "W": 7,
+          "L": 4,
+          "T": 3,
+          "PTS": 24,
+          "GF": 30,
+          "GA": 25,
+          "GD": 5
+        },
+        {
+          "name": "SIMCOE COUNTY ROVERS FC L2 WOMEN",
+          "GP": 14,
+          "W": 7,
+          "L": 5,
+          "T": 2,
+          "PTS": 23,
+          "GF": 36,
+          "GA": 23,
+          "GD": 13
+        },
+        {
+          "name": "WHITBY FC L2 WOMEN",
+          "GP": 14,
+          "W": 7,
+          "L": 6,
+          "T": 1,
+          "PTS": 22,
+          "GF": 18,
+          "GA": 17,
+          "GD": 1
+        },
+        {
+          "name": "SUDBURY CYCLONES WOMEN",
+          "GP": 14,
+          "W": 7,
+          "L": 7,
+          "T": 0,
+          "PTS": 21,
+          "GF": 30,
+          "GA": 32,
+          "GD": -2
+        },
+        {
+          "name": "VAUGHAN AZZURRI L2 WOMEN",
+          "GP": 14,
+          "W": 6,
+          "L": 7,
+          "T": 1,
+          "PTS": 19,
+          "GF": 29,
+          "GA": 25,
+          "GD": 4
+        },
+        {
+          "name": "UNIONVILLE MILLIKEN SC L2 WOMEN",
+          "GP": 14,
+          "W": 3,
+          "L": 10,
+          "T": 1,
+          "PTS": 10,
+          "GF": 11,
+          "GA": 43,
+          "GD": -32
+        },
+        {
+          "name": "NORTH MISSISSAUGA SC L2 WOMEN",
+          "GP": 14,
+          "W": 2,
+          "L": 11,
+          "T": 1,
+          "PTS": 7,
+          "GF": 10,
+          "GA": 30,
+          "GD": -20
+        },
+        {
+          "name": "MASTER'S FA WOMEN",
+          "GP": 14,
+          "W": 1,
+          "L": 11,
+          "T": 2,
+          "PTS": 5,
+          "GF": 8,
+          "GA": 43,
+          "GD": -35
+        }
+      ]
+    }
+  ]
+}

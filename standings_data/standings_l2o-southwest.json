@@ -1,0 +1,99 @@
+{
+  "league": "League2 Ontario Southwest",
+  "source": "live_scrape",
+  "divisions": [
+    {
+      "name": "2025 Men League 2 Southwest Division",
+      "teams": [
+        {
+          "name": "CAMBRIDGE UNITED MEN",
+          "GP": 14,
+          "W": 12,
+          "L": 2,
+          "T": 0,
+          "PTS": 36,
+          "GF": 48,
+          "GA": 14,
+          "GD": 34
+        },
+        {
+          "name": "ST CATHARINES ROMA L2 MEN",
+          "GP": 14,
+          "W": 9,
+          "L": 2,
+          "T": 3,
+          "PTS": 30,
+          "GF": 30,
+          "GA": 17,
+          "GD": 13
+        },
+        {
+          "name": "RAILWAY CITY FC MEN",
+          "GP": 14,
+          "W": 6,
+          "L": 5,
+          "T": 3,
+          "PTS": 21,
+          "GF": 34,
+          "GA": 20,
+          "GD": 14
+        },
+        {
+          "name": "WATERLOO UNITED L2 MEN",
+          "GP": 14,
+          "W": 5,
+          "L": 7,
+          "T": 2,
+          "PTS": 17,
+          "GF": 13,
+          "GA": 30,
+          "GD": -17
+        },
+        {
+          "name": "WINDSOR CITY FC L2 MEN",
+          "GP": 14,
+          "W": 5,
+          "L": 7,
+          "T": 2,
+          "PTS": 17,
+          "GF": 17,
+          "GA": 23,
+          "GD": -6
+        },
+        {
+          "name": "GUELPH UNITED L2 MEN",
+          "GP": 14,
+          "W": 4,
+          "L": 5,
+          "T": 5,
+          "PTS": 17,
+          "GF": 26,
+          "GA": 25,
+          "GD": 1
+        },
+        {
+          "name": "FC LONDON L2 MEN",
+          "GP": 14,
+          "W": 3,
+          "L": 8,
+          "T": 3,
+          "PTS": 12,
+          "GF": 15,
+          "GA": 24,
+          "GD": -9
+        },
+        {
+          "name": "HAMILTON UNITED L2 MEN",
+          "GP": 14,
+          "W": 2,
+          "L": 10,
+          "T": 2,
+          "PTS": 8,
+          "GF": 14,
+          "GA": 44,
+          "GD": -30
+        }
+      ]
+    }
+  ]
+}

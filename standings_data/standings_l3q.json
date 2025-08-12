@@ -1,0 +1,139 @@
+{
+  "league": "Ligue3 Québec",
+  "source": "live_scrape",
+  "divisions": [
+    {
+      "name": "2025 Men Québec L3 Division",
+      "teams": [
+        {
+          "name": "CS LONGUEUIL",
+          "GP": 11,
+          "W": 10,
+          "L": 0,
+          "T": 1,
+          "PTS": 31
+        },
+        {
+          "name": "SENIOR VENTURI",
+          "GP": 13,
+          "W": 8,
+          "L": 2,
+          "T": 3,
+          "PTS": 27
+        },
+        {
+          "name": "CS FURY DE RIMOUSKI",
+          "GP": 11,
+          "W": 8,
+          "L": 3,
+          "T": 0,
+          "PTS": 24
+        },
+        {
+          "name": "BORÉAL D'ALMA",
+          "GP": 12,
+          "W": 7,
+          "L": 2,
+          "T": 3,
+          "PTS": 24
+        },
+        {
+          "name": "MONDIAL DE RIVIÈRE-DU-LOUP",
+          "GP": 12,
+          "W": 7,
+          "L": 3,
+          "T": 2,
+          "PTS": 23
+        },
+        {
+          "name": "CHEVALIERS NDMC",
+          "GP": 13,
+          "W": 6,
+          "L": 4,
+          "T": 3,
+          "PTS": 21
+        },
+        {
+          "name": "FS SALABERRY",
+          "GP": 13,
+          "W": 5,
+          "L": 3,
+          "T": 5,
+          "PTS": 20
+        },
+        {
+          "name": "CS HAUTE-ST-CHARLES",
+          "GP": 12,
+          "W": 5,
+          "L": 5,
+          "T": 2,
+          "PTS": 17
+        },
+        {
+          "name": "AS LAVAL",
+          "GP": 10,
+          "W": 5,
+          "L": 4,
+          "T": 1,
+          "PTS": 16
+        },
+        {
+          "name": "CS TITANS",
+          "GP": 13,
+          "W": 4,
+          "L": 7,
+          "T": 2,
+          "PTS": 14
+        },
+        {
+          "name": "CELTIX HAUT-RICHELIEU",
+          "GP": 14,
+          "W": 3,
+          "L": 8,
+          "T": 3,
+          "PTS": 12
+        },
+        {
+          "name": "BLIZZ'OR",
+          "GP": 13,
+          "W": 3,
+          "L": 8,
+          "T": 2,
+          "PTS": 11
+        },
+        {
+          "name": "FC ANJOU",
+          "GP": 10,
+          "W": 3,
+          "L": 5,
+          "T": 2,
+          "PTS": 11
+        },
+        {
+          "name": "C.S. LANAUDIÈRE-NORD",
+          "GP": 14,
+          "W": 3,
+          "L": 10,
+          "T": 1,
+          "PTS": 9
+        },
+        {
+          "name": "CS MONT-ROYAL OUTREMONT",
+          "GP": 11,
+          "W": 2,
+          "L": 8,
+          "T": 1,
+          "PTS": 5
+        },
+        {
+          "name": "NDGSA",
+          "GP": 10,
+          "W": 1,
+          "L": 8,
+          "T": 1,
+          "PTS": 4
+        }
+      ]
+    }
+  ]
+}

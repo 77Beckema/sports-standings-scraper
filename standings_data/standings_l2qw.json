@@ -1,0 +1,163 @@
+{
+  "league": "Ligue2 Québec",
+  "source": "live_scrape",
+  "divisions": [
+    {
+      "name": "2025 Women Québec L2 Division",
+      "teams": [
+        {
+          "name": "LAKESHORE SC",
+          "GP": 18,
+          "W": 16,
+          "L": 1,
+          "T": 1,
+          "PTS": 49
+        },
+        {
+          "name": "CS TRIDENT",
+          "GP": 18,
+          "W": 15,
+          "L": 1,
+          "T": 2,
+          "PTS": 47
+        },
+        {
+          "name": "AS BROSSARD",
+          "GP": 18,
+          "W": 12,
+          "L": 3,
+          "T": 3,
+          "PTS": 39
+        },
+        {
+          "name": "CS TROIS-RIVIÈRES",
+          "GP": 18,
+          "W": 12,
+          "L": 5,
+          "T": 1,
+          "PTS": 37
+        },
+        {
+          "name": "CS ST-LAURENT",
+          "GP": 18,
+          "W": 10,
+          "L": 5,
+          "T": 3,
+          "PTS": 33
+        },
+        {
+          "name": "CS BOUCHERVILLE",
+          "GP": 18,
+          "W": 8,
+          "L": 3,
+          "T": 7,
+          "PTS": 31
+        },
+        {
+          "name": "CS LASALLE",
+          "GP": 18,
+          "W": 9,
+          "L": 6,
+          "T": 3,
+          "PTS": 30
+        },
+        {
+          "name": "CS LÉVIS-EST",
+          "GP": 18,
+          "W": 9,
+          "L": 6,
+          "T": 3,
+          "PTS": 30
+        },
+        {
+          "name": "RÉVOLUTION FC",
+          "GP": 18,
+          "W": 8,
+          "L": 6,
+          "T": 4,
+          "PTS": 28
+        },
+        {
+          "name": "AS GATINEAU",
+          "GP": 18,
+          "W": 8,
+          "L": 6,
+          "T": 4,
+          "PTS": 28
+        },
+        {
+          "name": "CS FURY DE RIMOUSKI",
+          "GP": 18,
+          "W": 8,
+          "L": 6,
+          "T": 4,
+          "PTS": 28
+        },
+        {
+          "name": "UNION LANAUDIÈRE SUD",
+          "GP": 18,
+          "W": 6,
+          "L": 4,
+          "T": 8,
+          "PTS": 26
+        },
+        {
+          "name": "CS DU BAS-RICHELIEU",
+          "GP": 18,
+          "W": 6,
+          "L": 10,
+          "T": 2,
+          "PTS": 20
+        },
+        {
+          "name": "MISTRAL DE SHERBROOKE",
+          "GP": 18,
+          "W": 6,
+          "L": 10,
+          "T": 2,
+          "PTS": 20
+        },
+        {
+          "name": "CS ROUSSILLON",
+          "GP": 18,
+          "W": 5,
+          "L": 13,
+          "T": 0,
+          "PTS": 15
+        },
+        {
+          "name": "CF L'INTERNATIONAL DE QUÉBEC",
+          "GP": 18,
+          "W": 4,
+          "L": 12,
+          "T": 2,
+          "PTS": 14
+        },
+        {
+          "name": "PHÉNIX DES RIVIÈRES",
+          "GP": 18,
+          "W": 2,
+          "L": 16,
+          "T": 0,
+          "PTS": 6
+        },
+        {
+          "name": "FC ANJOU",
+          "GP": 18,
+          "W": 1,
+          "L": 17,
+          "T": 0,
+          "PTS": 3
+        },
+        {
+          "name": "C.S. LANAUDIÈRE-NORD",
+          "GP": 18,
+          "W": 0,
+          "L": 15,
+          "T": 3,
+          "PTS": 3
+        }
+      ]
+    }
+  ]
+}

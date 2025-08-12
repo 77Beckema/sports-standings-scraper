@@ -1,0 +1,442 @@
+{
+  "league": "U SPORTS",
+  "divisions": [
+    {
+      "name": "2024–25 Overall",
+      "teams": [
+        {
+          "name": "Montreal",
+          "GP": 12,
+          "W": 10,
+          "L": 1,
+          "T": 1,
+          "GD": 7,
+          "PTS": 31
+        },
+        {
+          "name": "McGill",
+          "GP": 12,
+          "W": 5,
+          "L": 4,
+          "T": 3,
+          "GD": 11,
+          "PTS": 18
+        },
+        {
+          "name": "UQTR",
+          "GP": 12,
+          "W": 6,
+          "L": 5,
+          "T": 1,
+          "GD": 19,
+          "PTS": 19
+        },
+        {
+          "name": "Concordia",
+          "GP": 12,
+          "W": 5,
+          "L": 6,
+          "T": 1,
+          "GD": 11,
+          "PTS": 16
+        },
+        {
+          "name": "UQAM",
+          "GP": 12,
+          "W": 4,
+          "L": 6,
+          "T": 2,
+          "GD": 17,
+          "PTS": 14
+        },
+        {
+          "name": "Laval",
+          "GP": 12,
+          "W": 2,
+          "L": 5,
+          "T": 5,
+          "GD": 19,
+          "PTS": 11
+        },
+        {
+          "name": "Sherbrooke",
+          "GP": 12,
+          "W": 2,
+          "L": 7,
+          "T": 3,
+          "GD": 19,
+          "PTS": 9
+        },
+        {
+          "name": "UBC",
+          "GP": 15,
+          "W": 11,
+          "L": 1,
+          "T": 3,
+          "GD": 10,
+          "PTS": 36
+        },
+        {
+          "name": "Victoria",
+          "GP": 15,
+          "W": 9,
+          "L": 2,
+          "T": 4,
+          "GD": 5,
+          "PTS": 31
+        },
+        {
+          "name": "UFV",
+          "GP": 16,
+          "W": 8,
+          "L": 5,
+          "T": 3,
+          "GD": 22,
+          "PTS": 27
+        },
+        {
+          "name": "Trinity Western",
+          "GP": 15,
+          "W": 6,
+          "L": 6,
+          "T": 3,
+          "GD": 17,
+          "PTS": 21
+        },
+        {
+          "name": "UBC Okanagan",
+          "GP": 15,
+          "W": 4,
+          "L": 8,
+          "T": 3,
+          "GD": 29,
+          "PTS": 15
+        },
+        {
+          "name": "Thompson Rivers",
+          "GP": 16,
+          "W": 2,
+          "L": 12,
+          "T": 2,
+          "GD": 28,
+          "PTS": 8
+        },
+        {
+          "name": "UNBC",
+          "GP": 16,
+          "W": 2,
+          "L": 12,
+          "T": 2,
+          "GD": 43,
+          "PTS": 8
+        },
+        {
+          "name": "Alberta",
+          "GP": 14,
+          "W": 10,
+          "L": 1,
+          "T": 3,
+          "GD": 11,
+          "PTS": 33
+        },
+        {
+          "name": "Calgary",
+          "GP": 14,
+          "W": 7,
+          "L": 2,
+          "T": 5,
+          "GD": 11,
+          "PTS": 26
+        },
+        {
+          "name": "Mount Royal",
+          "GP": 14,
+          "W": 7,
+          "L": 2,
+          "T": 5,
+          "GD": 14,
+          "PTS": 26
+        },
+        {
+          "name": "Lethbridge",
+          "GP": 14,
+          "W": 3,
+          "L": 4,
+          "T": 7,
+          "GD": 15,
+          "PTS": 16
+        },
+        {
+          "name": "MacEwan",
+          "GP": 14,
+          "W": 3,
+          "L": 10,
+          "T": 1,
+          "GD": 31,
+          "PTS": 10
+        },
+        {
+          "name": "Saskatchewan",
+          "GP": 14,
+          "W": 3,
+          "L": 10,
+          "T": 1,
+          "GD": 28,
+          "PTS": 10
+        },
+        {
+          "name": "StFX",
+          "GP": 12,
+          "W": 8,
+          "L": 1,
+          "T": 3,
+          "GD": 10,
+          "PTS": 27
+        },
+        {
+          "name": "Memorial",
+          "GP": 12,
+          "W": 7,
+          "L": 4,
+          "T": 1,
+          "GD": 18,
+          "PTS": 22
+        },
+        {
+          "name": "Dalhousie",
+          "GP": 12,
+          "W": 6,
+          "L": 4,
+          "T": 2,
+          "GD": 11,
+          "PTS": 20
+        },
+        {
+          "name": "Saint Mary's",
+          "GP": 12,
+          "W": 7,
+          "L": 5,
+          "T": 0,
+          "GD": 30,
+          "PTS": 21
+        },
+        {
+          "name": "Cape Breton",
+          "GP": 12,
+          "W": 6,
+          "L": 6,
+          "T": 0,
+          "GD": 22,
+          "PTS": 18
+        },
+        {
+          "name": "UNB",
+          "GP": 12,
+          "W": 4,
+          "L": 4,
+          "T": 4,
+          "GD": 22,
+          "PTS": 16
+        },
+        {
+          "name": "Moncton",
+          "GP": 12,
+          "W": 4,
+          "L": 5,
+          "T": 3,
+          "GD": 11,
+          "PTS": 15
+        },
+        {
+          "name": "UPEI",
+          "GP": 12,
+          "W": 4,
+          "L": 7,
+          "T": 1,
+          "GD": 24,
+          "PTS": 13
+        },
+        {
+          "name": "Acadia",
+          "GP": 12,
+          "W": 3,
+          "L": 7,
+          "T": 2,
+          "GD": 29,
+          "PTS": 11
+        },
+        {
+          "name": "Mount Allison",
+          "GP": 12,
+          "W": 3,
+          "L": 9,
+          "T": 0,
+          "GD": 30,
+          "PTS": 9
+        },
+        {
+          "name": "Toronto",
+          "GP": 12,
+          "W": 9,
+          "L": 2,
+          "T": 1,
+          "GD": 10,
+          "PTS": 28
+        },
+        {
+          "name": "Toronto Metropolitan",
+          "GP": 12,
+          "W": 8,
+          "L": 1,
+          "T": 3,
+          "GD": 12,
+          "PTS": 27
+        },
+        {
+          "name": "Carleton",
+          "GP": 12,
+          "W": 8,
+          "L": 2,
+          "T": 2,
+          "GD": 10,
+          "PTS": 26
+        },
+        {
+          "name": "Nipissing",
+          "GP": 12,
+          "W": 6,
+          "L": 4,
+          "T": 2,
+          "GD": 18,
+          "PTS": 20
+        },
+        {
+          "name": "Ontario Tech",
+          "GP": 12,
+          "W": 6,
+          "L": 4,
+          "T": 2,
+          "GD": 17,
+          "PTS": 20
+        },
+        {
+          "name": "Laurentian",
+          "GP": 12,
+          "W": 4,
+          "L": 5,
+          "T": 3,
+          "GD": 33,
+          "PTS": 15
+        },
+        {
+          "name": "Queen's",
+          "GP": 12,
+          "W": 3,
+          "L": 6,
+          "T": 3,
+          "GD": 20,
+          "PTS": 12
+        },
+        {
+          "name": "Trent",
+          "GP": 12,
+          "W": 2,
+          "L": 10,
+          "T": 0,
+          "GD": 41,
+          "PTS": 6
+        },
+        {
+          "name": "RMC",
+          "GP": 12,
+          "W": 0,
+          "L": 12,
+          "T": 0,
+          "GD": 51,
+          "PTS": 0
+        },
+        {
+          "name": "York",
+          "GP": 12,
+          "W": 8,
+          "L": 1,
+          "T": 3,
+          "GD": 10,
+          "PTS": 27
+        },
+        {
+          "name": "McMaster",
+          "GP": 12,
+          "W": 8,
+          "L": 2,
+          "T": 2,
+          "GD": 15,
+          "PTS": 26
+        },
+        {
+          "name": "Western",
+          "GP": 12,
+          "W": 6,
+          "L": 2,
+          "T": 4,
+          "GD": 11,
+          "PTS": 22
+        },
+        {
+          "name": "Guelph",
+          "GP": 12,
+          "W": 5,
+          "L": 3,
+          "T": 4,
+          "GD": 14,
+          "PTS": 19
+        },
+        {
+          "name": "Laurier",
+          "GP": 12,
+          "W": 6,
+          "L": 5,
+          "T": 1,
+          "GD": 12,
+          "PTS": 19
+        },
+        {
+          "name": "Brock",
+          "GP": 12,
+          "W": 5,
+          "L": 5,
+          "T": 2,
+          "GD": 18,
+          "PTS": 17
+        },
+        {
+          "name": "Waterloo",
+          "GP": 12,
+          "W": 3,
+          "L": 7,
+          "T": 2,
+          "GD": 18,
+          "PTS": 11
+        },
+        {
+          "name": "Algoma",
+          "GP": 12,
+          "W": 2,
+          "L": 7,
+          "T": 3,
+          "GD": 23,
+          "PTS": 9
+        },
+        {
+          "name": "Windsor",
+          "GP": 12,
+          "W": 0,
+          "L": 11,
+          "T": 1,
+          "GD": 40,
+          "PTS": 1
+        }
+      ]
+    }
+  ]
+}

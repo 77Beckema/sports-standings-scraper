@@ -1,0 +1,110 @@
+{
+  "league": "League1 British Columbia",
+  "source": "live_scrape",
+  "divisions": [
+    {
+      "name": "2025 Men BC Division",
+      "teams": [
+        {
+          "name": "LANGLEY UNITED MEN",
+          "GP": 16,
+          "W": 10,
+          "L": 3,
+          "T": 3,
+          "PTS": 33,
+          "GF": 39,
+          "GA": 22,
+          "GD": 17
+        },
+        {
+          "name": "TSS ROVERS FC MEN",
+          "GP": 16,
+          "W": 10,
+          "L": 4,
+          "T": 2,
+          "PTS": 32,
+          "GF": 41,
+          "GA": 20,
+          "GD": 21
+        },
+        {
+          "name": "ALTITUDE FC MEN",
+          "GP": 16,
+          "W": 7,
+          "L": 3,
+          "T": 6,
+          "PTS": 27,
+          "GF": 30,
+          "GA": 17,
+          "GD": 13
+        },
+        {
+          "name": "BURNABY FC MEN",
+          "GP": 16,
+          "W": 7,
+          "L": 4,
+          "T": 5,
+          "PTS": 26,
+          "GF": 21,
+          "GA": 21,
+          "GD": 0
+        },
+        {
+          "name": "KAMLOOPS UNITED FC MEN",
+          "GP": 16,
+          "W": 7,
+          "L": 7,
+          "T": 2,
+          "PTS": 23,
+          "GF": 25,
+          "GA": 25,
+          "GD": 0
+        },
+        {
+          "name": "EVOLUTION FC MEN",
+          "GP": 16,
+          "W": 4,
+          "L": 6,
+          "T": 6,
+          "PTS": 18,
+          "GF": 27,
+          "GA": 31,
+          "GD": -4
+        },
+        {
+          "name": "UNITY FC MEN",
+          "GP": 16,
+          "W": 3,
+          "L": 6,
+          "T": 7,
+          "PTS": 16,
+          "GF": 26,
+          "GA": 38,
+          "GD": -12
+        },
+        {
+          "name": "VANCOUVER WHITECAPS ACADEMY",
+          "GP": 16,
+          "W": 4,
+          "L": 10,
+          "T": 2,
+          "PTS": 14,
+          "GF": 24,
+          "GA": 39,
+          "GD": -15
+        },
+        {
+          "name": "NANAIMO UNITED FC MEN",
+          "GP": 16,
+          "W": 2,
+          "L": 11,
+          "T": 3,
+          "PTS": 9,
+          "GF": 17,
+          "GA": 37,
+          "GD": -20
+        }
+      ]
+    }
+  ]
+}

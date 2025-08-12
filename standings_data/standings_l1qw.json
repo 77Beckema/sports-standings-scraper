@@ -1,0 +1,171 @@
+{
+  "league": "Ligue1 (W) Québec",
+  "source": "live_scrape",
+  "divisions": [
+    {
+      "name": "2025 Women Québec Division",
+      "teams": [
+        {
+          "name": "FC LAVAL",
+          "GP": 13,
+          "W": 8,
+          "L": 4,
+          "T": 1,
+          "PTS": 25
+        },
+        {
+          "name": "CS MONT-ROYAL OUTREMONT",
+          "GP": 13,
+          "W": 7,
+          "L": 3,
+          "T": 3,
+          "PTS": 24
+        },
+        {
+          "name": "CS LONGUEUIL",
+          "GP": 13,
+          "W": 7,
+          "L": 5,
+          "T": 1,
+          "PTS": 22
+        },
+        {
+          "name": "AS BLAINVILLE",
+          "GP": 13,
+          "W": 4,
+          "L": 6,
+          "T": 3,
+          "PTS": 15
+        },
+        {
+          "name": "AS LAVAL",
+          "GP": 13,
+          "W": 1,
+          "L": 12,
+          "T": 0,
+          "PTS": 3
+        },
+        {
+          "name": "CF MONTRÉAL",
+          "GP": 13,
+          "W": 9,
+          "L": 2,
+          "T": 2,
+          "PTS": 29
+        },
+        {
+          "name": "ROYAL BEAUPORT",
+          "GP": 13,
+          "W": 8,
+          "L": 4,
+          "T": 1,
+          "PTS": 25
+        },
+        {
+          "name": "CELTIX HAUT RICHELIEU",
+          "GP": 13,
+          "W": 8,
+          "L": 4,
+          "T": 1,
+          "PTS": 25
+        },
+        {
+          "name": "OTTAWA SOUTH UNITED",
+          "GP": 13,
+          "W": 5,
+          "L": 6,
+          "T": 2,
+          "PTS": 16
+        },
+        {
+          "name": "AS CHAUDIÈRE-OUEST",
+          "GP": 13,
+          "W": 1,
+          "L": 12,
+          "T": 0,
+          "PTS": 3
+        },
+        {
+          "name": "CCF MONTRÉAL",
+          "GP": 13,
+          "W": 9,
+          "L": 2,
+          "T": 2,
+          "PTS": 29
+        },
+        {
+          "name": "RROYAL BEAUPORT",
+          "GP": 13,
+          "W": 8,
+          "L": 4,
+          "T": 1,
+          "PTS": 25
+        },
+        {
+          "name": "FFC LAVAL",
+          "GP": 13,
+          "W": 8,
+          "L": 4,
+          "T": 1,
+          "PTS": 25
+        },
+        {
+          "name": "CCELTIX HAUT RICHELIEU",
+          "GP": 13,
+          "W": 8,
+          "L": 4,
+          "T": 1,
+          "PTS": 25
+        },
+        {
+          "name": "CCS MONT-ROYAL OUTREMONT",
+          "GP": 13,
+          "W": 7,
+          "L": 3,
+          "T": 3,
+          "PTS": 24
+        },
+        {
+          "name": "CCS LONGUEUIL",
+          "GP": 13,
+          "W": 7,
+          "L": 5,
+          "T": 1,
+          "PTS": 22
+        },
+        {
+          "name": "OOTTAWA SOUTH UNITED",
+          "GP": 13,
+          "W": 5,
+          "L": 6,
+          "T": 2,
+          "PTS": 16
+        },
+        {
+          "name": "AAS BLAINVILLE",
+          "GP": 13,
+          "W": 4,
+          "L": 6,
+          "T": 3,
+          "PTS": 15
+        },
+        {
+          "name": "AAS LAVAL",
+          "GP": 13,
+          "W": 1,
+          "L": 12,
+          "T": 0,
+          "PTS": 3
+        },
+        {
+          "name": "AAS CHAUDIÈRE-OUEST",
+          "GP": 13,
+          "W": 1,
+          "L": 12,
+          "T": 0,
+          "PTS": 3
+        }
+      ]
+    }
+  ]
+}

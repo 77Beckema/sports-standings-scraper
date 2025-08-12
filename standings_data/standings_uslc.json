@@ -1,0 +1,227 @@
+{
+  "league": "USL Championship",
+  "source": "uslchampionship.com",
+  "divisions": [
+    {
+      "name": "All",
+      "teams": [
+        {
+          "rank": "",
+          "name": "Louisville City FC",
+          "GP": 18,
+          "W": 12,
+          "L": 1,
+          "T": 5,
+          "PTS": 41
+        },
+        {
+          "rank": "",
+          "name": "Charleston Battery",
+          "GP": 18,
+          "W": 13,
+          "L": 3,
+          "T": 2,
+          "PTS": 41
+        },
+        {
+          "rank": "",
+          "name": "FC Tulsa",
+          "GP": 18,
+          "W": 10,
+          "L": 3,
+          "T": 5,
+          "PTS": 35
+        },
+        {
+          "rank": "",
+          "name": "Loudoun United FC",
+          "GP": 18,
+          "W": 8,
+          "L": 7,
+          "T": 3,
+          "PTS": 27
+        },
+        {
+          "rank": "",
+          "name": "Sacramento Republic FC",
+          "GP": 17,
+          "W": 7,
+          "L": 4,
+          "T": 6,
+          "PTS": 27
+        },
+        {
+          "rank": "",
+          "name": "San Antonio FC",
+          "GP": 17,
+          "W": 8,
+          "L": 6,
+          "T": 3,
+          "PTS": 27
+        },
+        {
+          "rank": "",
+          "name": "North Carolina FC",
+          "GP": 17,
+          "W": 8,
+          "L": 7,
+          "T": 2,
+          "PTS": 26
+        },
+        {
+          "rank": "",
+          "name": "Pittsburgh Riverhounds SC",
+          "GP": 18,
+          "W": 7,
+          "L": 6,
+          "T": 5,
+          "PTS": 26
+        },
+        {
+          "rank": "",
+          "name": "El Paso Locomotive FC",
+          "GP": 17,
+          "W": 7,
+          "L": 5,
+          "T": 5,
+          "PTS": 26
+        },
+        {
+          "rank": "",
+          "name": "New Mexico United",
+          "GP": 16,
+          "W": 8,
+          "L": 7,
+          "T": 1,
+          "PTS": 25
+        },
+        {
+          "rank": "",
+          "name": "Phoenix Rising FC",
+          "GP": 18,
+          "W": 6,
+          "L": 6,
+          "T": 6,
+          "PTS": 24
+        },
+        {
+          "rank": "",
+          "name": "Orange County SC",
+          "GP": 16,
+          "W": 7,
+          "L": 7,
+          "T": 2,
+          "PTS": 23
+        },
+        {
+          "rank": "",
+          "name": "Monterey Bay FC",
+          "GP": 19,
+          "W": 6,
+          "L": 9,
+          "T": 4,
+          "PTS": 22
+        },
+        {
+          "rank": "",
+          "name": "Detroit City FC",
+          "GP": 18,
+          "W": 5,
+          "L": 7,
+          "T": 6,
+          "PTS": 21
+        },
+        {
+          "rank": "",
+          "name": "Colorado Springs Switchbacks FC",
+          "GP": 17,
+          "W": 5,
+          "L": 6,
+          "T": 6,
+          "PTS": 21
+        },
+        {
+          "rank": "",
+          "name": "Indy Eleven",
+          "GP": 17,
+          "W": 5,
+          "L": 7,
+          "T": 5,
+          "PTS": 20
+        },
+        {
+          "rank": "",
+          "name": "Rhode Island FC",
+          "GP": 19,
+          "W": 5,
+          "L": 9,
+          "T": 5,
+          "PTS": 20
+        },
+        {
+          "rank": "",
+          "name": "Oakland Roots SC",
+          "GP": 17,
+          "W": 6,
+          "L": 9,
+          "T": 2,
+          "PTS": 20
+        },
+        {
+          "rank": "",
+          "name": "Hartford Athletic",
+          "GP": 17,
+          "W": 5,
+          "L": 8,
+          "T": 4,
+          "PTS": 19
+        },
+        {
+          "rank": "",
+          "name": "Birmingham Legion FC",
+          "GP": 19,
+          "W": 4,
+          "L": 8,
+          "T": 7,
+          "PTS": 19
+        },
+        {
+          "rank": "",
+          "name": "Miami FC",
+          "GP": 18,
+          "W": 5,
+          "L": 9,
+          "T": 4,
+          "PTS": 19
+        },
+        {
+          "rank": "",
+          "name": "Lexington SC",
+          "GP": 18,
+          "W": 4,
+          "L": 7,
+          "T": 7,
+          "PTS": 19
+        },
+        {
+          "rank": "",
+          "name": "Las Vegas Lights FC",
+          "GP": 18,
+          "W": 5,
+          "L": 10,
+          "T": 3,
+          "PTS": 18
+        },
+        {
+          "rank": "",
+          "name": "Tampa Bay Rowdies",
+          "GP": 17,
+          "W": 5,
+          "L": 10,
+          "T": 2,
+          "PTS": 17
+        }
+      ]
+    }
+  ]
+}

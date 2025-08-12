@@ -1,0 +1,65 @@
+{
+  "league": "Northern Super League (W)",
+  "season": "2025",
+  "divisions": [
+    {
+      "name": "Standings",
+      "teams": [
+        {
+          "rank": "1",
+          "name": "AFC Toronto",
+          "PTS": 28,
+          "GP": 15,
+          "W": 9,
+          "L": 5,
+          "T": 1
+        },
+        {
+          "rank": "2",
+          "name": "Montreal Roses FC",
+          "PTS": 25,
+          "GP": 14,
+          "W": 7,
+          "L": 3,
+          "T": 4
+        },
+        {
+          "rank": "3",
+          "name": "Ottawa Rapid FC",
+          "PTS": 21,
+          "GP": 13,
+          "W": 6,
+          "L": 4,
+          "T": 3
+        },
+        {
+          "rank": "4",
+          "name": "Vancouver Rise FC",
+          "PTS": 19,
+          "GP": 14,
+          "W": 5,
+          "L": 5,
+          "T": 4
+        },
+        {
+          "rank": "5",
+          "name": "Calgary Wild FC",
+          "PTS": 14,
+          "GP": 14,
+          "W": 4,
+          "L": 8,
+          "T": 2
+        },
+        {
+          "rank": "6",
+          "name": "Halifax Tides FC",
+          "PTS": 11,
+          "GP": 14,
+          "W": 3,
+          "L": 9,
+          "T": 2
+        }
+      ]
+    }
+  ]
+}

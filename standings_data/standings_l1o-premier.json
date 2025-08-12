@@ -1,0 +1,132 @@
+{
+  "league": "League1 Ontario Premier",
+  "source": "live_scrape",
+  "divisions": [
+    {
+      "name": "2025 Men Premier Division",
+      "teams": [
+        {
+          "name": "WOODBRIDGE STRIKERS MEN",
+          "GP": 17,
+          "W": 11,
+          "L": 2,
+          "T": 4,
+          "PTS": 37,
+          "GF": 33,
+          "GA": 13,
+          "GD": 20
+        },
+        {
+          "name": "SCROSOPPI FC MEN",
+          "GP": 17,
+          "W": 10,
+          "L": 3,
+          "T": 4,
+          "PTS": 34,
+          "GF": 34,
+          "GA": 19,
+          "GD": 15
+        },
+        {
+          "name": "SIMCOE COUNTY ROVERS FC MEN",
+          "GP": 19,
+          "W": 8,
+          "L": 5,
+          "T": 6,
+          "PTS": 30,
+          "GF": 32,
+          "GA": 26,
+          "GD": 6
+        },
+        {
+          "name": "ST CATHARINES ROMA MEN",
+          "GP": 18,
+          "W": 7,
+          "L": 4,
+          "T": 7,
+          "PTS": 28,
+          "GF": 37,
+          "GA": 33,
+          "GD": 4
+        },
+        {
+          "name": "ALLIANCE UNITED MEN",
+          "GP": 17,
+          "W": 7,
+          "L": 5,
+          "T": 5,
+          "PTS": 26,
+          "GF": 35,
+          "GA": 28,
+          "GD": 7
+        },
+        {
+          "name": "BURLINGTON SC MEN",
+          "GP": 18,
+          "W": 8,
+          "L": 10,
+          "T": 0,
+          "PTS": 24,
+          "GF": 28,
+          "GA": 31,
+          "GD": -3
+        },
+        {
+          "name": "OAKVILLE SC MEN",
+          "GP": 17,
+          "W": 6,
+          "L": 6,
+          "T": 5,
+          "PTS": 23,
+          "GF": 22,
+          "GA": 26,
+          "GD": -4
+        },
+        {
+          "name": "VAUGHAN AZZURRI MEN",
+          "GP": 17,
+          "W": 6,
+          "L": 6,
+          "T": 5,
+          "PTS": 23,
+          "GF": 36,
+          "GA": 29,
+          "GD": 7
+        },
+        {
+          "name": "SIGMA FC MEN",
+          "GP": 18,
+          "W": 6,
+          "L": 9,
+          "T": 3,
+          "PTS": 21,
+          "GF": 30,
+          "GA": 39,
+          "GD": -9
+        },
+        {
+          "name": "NORTH TORONTO MEN",
+          "GP": 17,
+          "W": 4,
+          "L": 12,
+          "T": 1,
+          "PTS": 13,
+          "GF": 30,
+          "GA": 50,
+          "GD": -20
+        },
+        {
+          "name": "FC LONDON MEN",
+          "GP": 17,
+          "W": 2,
+          "L": 13,
+          "T": 2,
+          "PTS": 8,
+          "GF": 15,
+          "GA": 38,
+          "GD": -23
+        }
+      ]
+    }
+  ]
+}

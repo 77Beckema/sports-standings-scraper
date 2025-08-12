@@ -1,0 +1,99 @@
+{
+  "league": "League1 Alberta (W)",
+  "source": "live_scrape",
+  "divisions": [
+    {
+      "name": "2025 Women ALberta Division",
+      "teams": [
+        {
+          "name": "CALGARY BLIZZARD WOMEN",
+          "GP": 14,
+          "W": 11,
+          "L": 1,
+          "T": 2,
+          "PTS": 35,
+          "GF": 30,
+          "GA": 14,
+          "GD": 16
+        },
+        {
+          "name": "CALGARY FOOTHILLS WOMEN",
+          "GP": 14,
+          "W": 11,
+          "L": 3,
+          "T": 0,
+          "PTS": 33,
+          "GF": 41,
+          "GA": 7,
+          "GD": 34
+        },
+        {
+          "name": "ST. ALBERT IMPACT WOMEN",
+          "GP": 14,
+          "W": 10,
+          "L": 3,
+          "T": 1,
+          "PTS": 31,
+          "GF": 38,
+          "GA": 14,
+          "GD": 24
+        },
+        {
+          "name": "EDMONTON BTB WOMEN",
+          "GP": 14,
+          "W": 5,
+          "L": 6,
+          "T": 3,
+          "PTS": 18,
+          "GF": 23,
+          "GA": 21,
+          "GD": 2
+        },
+        {
+          "name": "CALLIES UNITED WOMEN",
+          "GP": 14,
+          "W": 4,
+          "L": 8,
+          "T": 2,
+          "PTS": 14,
+          "GF": 21,
+          "GA": 32,
+          "GD": -11
+        },
+        {
+          "name": "CALGARY VILLAINS FC WOMEN",
+          "GP": 14,
+          "W": 4,
+          "L": 9,
+          "T": 1,
+          "PTS": 13,
+          "GF": 19,
+          "GA": 32,
+          "GD": -13
+        },
+        {
+          "name": "CALGARY RANGERS SC WOMEN",
+          "GP": 14,
+          "W": 4,
+          "L": 9,
+          "T": 1,
+          "PTS": 13,
+          "GF": 14,
+          "GA": 39,
+          "GD": -25
+        },
+        {
+          "name": "EDMONTON SCOTTISH L1AB W",
+          "GP": 14,
+          "W": 1,
+          "L": 11,
+          "T": 2,
+          "PTS": 5,
+          "GF": 17,
+          "GA": 44,
+          "GD": -27
+        }
+      ]
+    }
+  ]
+}

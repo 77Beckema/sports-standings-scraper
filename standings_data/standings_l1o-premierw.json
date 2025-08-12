@@ -1,0 +1,121 @@
+{
+  "league": "League1 Ontario Premier (W)",
+  "source": "live_scrape",
+  "divisions": [
+    {
+      "name": "2025 Women Premier Division",
+      "teams": [
+        {
+          "name": "SIMCOE COUNTY ROVERS FC WOMEN",
+          "GP": 18,
+          "W": 14,
+          "L": 1,
+          "T": 3,
+          "PTS": 45,
+          "GF": 47,
+          "GA": 13,
+          "GD": 34
+        },
+        {
+          "name": "NORTH TORONTO WOMEN",
+          "GP": 18,
+          "W": 13,
+          "L": 2,
+          "T": 3,
+          "PTS": 42,
+          "GF": 56,
+          "GA": 13,
+          "GD": 43
+        },
+        {
+          "name": "NDC ONTARIO WOMEN",
+          "GP": 18,
+          "W": 13,
+          "L": 3,
+          "T": 2,
+          "PTS": 41,
+          "GF": 44,
+          "GA": 14,
+          "GD": 30
+        },
+        {
+          "name": "GUELPH UNITED WOMEN",
+          "GP": 18,
+          "W": 9,
+          "L": 7,
+          "T": 2,
+          "PTS": 29,
+          "GF": 35,
+          "GA": 32,
+          "GD": 3
+        },
+        {
+          "name": "VAUGHAN AZZURRI WOMEN",
+          "GP": 18,
+          "W": 8,
+          "L": 8,
+          "T": 2,
+          "PTS": 26,
+          "GF": 19,
+          "GA": 28,
+          "GD": -9
+        },
+        {
+          "name": "WATERLOO UNITED WOMEN",
+          "GP": 18,
+          "W": 4,
+          "L": 9,
+          "T": 5,
+          "PTS": 17,
+          "GF": 15,
+          "GA": 26,
+          "GD": -11
+        },
+        {
+          "name": "WOODBRIDGE STRIKERS WOMEN",
+          "GP": 18,
+          "W": 4,
+          "L": 10,
+          "T": 4,
+          "PTS": 16,
+          "GF": 21,
+          "GA": 42,
+          "GD": -21
+        },
+        {
+          "name": "NORTH MISSISSAUGA SC WOMEN",
+          "GP": 18,
+          "W": 3,
+          "L": 11,
+          "T": 4,
+          "PTS": 13,
+          "GF": 10,
+          "GA": 48,
+          "GD": -38
+        },
+        {
+          "name": "FC LONDON WOMEN",
+          "GP": 18,
+          "W": 3,
+          "L": 11,
+          "T": 4,
+          "PTS": 13,
+          "GF": 14,
+          "GA": 30,
+          "GD": -16
+        },
+        {
+          "name": "ALLIANCE UNITED WOMEN",
+          "GP": 18,
+          "W": 1,
+          "L": 10,
+          "T": 7,
+          "PTS": 10,
+          "GF": 14,
+          "GA": 29,
+          "GD": -15
+        }
+      ]
+    }
+  ]
+}

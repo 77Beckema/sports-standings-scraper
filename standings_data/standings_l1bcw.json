@@ -1,0 +1,110 @@
+{
+  "league": "League1 British Columbia",
+  "source": "live_scrape",
+  "divisions": [
+    {
+      "name": "2025 Women BC Division",
+      "teams": [
+        {
+          "name": "ALTITUDE FC WOMEN",
+          "GP": 16,
+          "W": 14,
+          "L": 1,
+          "T": 1,
+          "PTS": 43,
+          "GF": 47,
+          "GA": 9,
+          "GD": 38
+        },
+        {
+          "name": "VANCOUVER RISE FC ACADEMY",
+          "GP": 16,
+          "W": 12,
+          "L": 3,
+          "T": 1,
+          "PTS": 37,
+          "GF": 50,
+          "GA": 17,
+          "GD": 33
+        },
+        {
+          "name": "UNITY FC WOMEN",
+          "GP": 16,
+          "W": 9,
+          "L": 3,
+          "T": 4,
+          "PTS": 31,
+          "GF": 40,
+          "GA": 23,
+          "GD": 17
+        },
+        {
+          "name": "TSS ROVERS FC WOMEN",
+          "GP": 16,
+          "W": 7,
+          "L": 5,
+          "T": 4,
+          "PTS": 25,
+          "GF": 29,
+          "GA": 22,
+          "GD": 7
+        },
+        {
+          "name": "LANGLEY UNITED WOMEN",
+          "GP": 16,
+          "W": 5,
+          "L": 8,
+          "T": 3,
+          "PTS": 18,
+          "GF": 18,
+          "GA": 28,
+          "GD": -10
+        },
+        {
+          "name": "EVOLUTION FC WOMEN",
+          "GP": 16,
+          "W": 5,
+          "L": 9,
+          "T": 2,
+          "PTS": 17,
+          "GF": 19,
+          "GA": 38,
+          "GD": -19
+        },
+        {
+          "name": "NANAIMO UNITED FC WOMEN",
+          "GP": 16,
+          "W": 4,
+          "L": 9,
+          "T": 3,
+          "PTS": 15,
+          "GF": 22,
+          "GA": 40,
+          "GD": -18
+        },
+        {
+          "name": "BURNABY FC WOMEN",
+          "GP": 16,
+          "W": 3,
+          "L": 10,
+          "T": 3,
+          "PTS": 12,
+          "GF": 22,
+          "GA": 35,
+          "GD": -13
+        },
+        {
+          "name": "KAMLOOPS UNITED FC WOMEN",
+          "GP": 16,
+          "W": 1,
+          "L": 12,
+          "T": 3,
+          "PTS": 6,
+          "GF": 19,
+          "GA": 54,
+          "GD": -35
+        }
+      ]
+    }
+  ]
+}

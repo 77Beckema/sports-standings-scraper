@@ -1,0 +1,110 @@
+{
+  "league": "League1 Ontario Championship (W)",
+  "source": "live_scrape",
+  "divisions": [
+    {
+      "name": "2025 Women Championship Division",
+      "teams": [
+        {
+          "name": "SCROSOPPI FC WOMEN",
+          "GP": 16,
+          "W": 9,
+          "L": 4,
+          "T": 3,
+          "PTS": 30,
+          "GF": 30,
+          "GA": 18,
+          "GD": 12
+        },
+        {
+          "name": "HAMILTON UNITED WOMEN",
+          "GP": 16,
+          "W": 9,
+          "L": 5,
+          "T": 2,
+          "PTS": 29,
+          "GF": 28,
+          "GA": 18,
+          "GD": 10
+        },
+        {
+          "name": "OAKVILLE SC WOMEN",
+          "GP": 16,
+          "W": 8,
+          "L": 6,
+          "T": 2,
+          "PTS": 26,
+          "GF": 22,
+          "GA": 14,
+          "GD": 8
+        },
+        {
+          "name": "PICKERING FC WOMEN",
+          "GP": 16,
+          "W": 7,
+          "L": 5,
+          "T": 4,
+          "PTS": 25,
+          "GF": 32,
+          "GA": 21,
+          "GD": 11
+        },
+        {
+          "name": "WHITBY FC WOMEN",
+          "GP": 16,
+          "W": 6,
+          "L": 3,
+          "T": 7,
+          "PTS": 25,
+          "GF": 23,
+          "GA": 14,
+          "GD": 9
+        },
+        {
+          "name": "TECUMSEH UNITED FC WOMEN",
+          "GP": 16,
+          "W": 7,
+          "L": 6,
+          "T": 3,
+          "PTS": 24,
+          "GF": 21,
+          "GA": 23,
+          "GD": -2
+        },
+        {
+          "name": "UNIONVILLE MILLIKEN SC WOMEN",
+          "GP": 16,
+          "W": 4,
+          "L": 8,
+          "T": 4,
+          "PTS": 16,
+          "GF": 28,
+          "GA": 36,
+          "GD": -8
+        },
+        {
+          "name": "RUSH CANADA ACADEMY WOMEN",
+          "GP": 16,
+          "W": 3,
+          "L": 7,
+          "T": 6,
+          "PTS": 15,
+          "GF": 27,
+          "GA": 39,
+          "GD": -12
+        },
+        {
+          "name": "BURLINGTON SC WOMEN",
+          "GP": 16,
+          "W": 3,
+          "L": 12,
+          "T": 1,
+          "PTS": 10,
+          "GF": 18,
+          "GA": 46,
+          "GD": -28
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "league": "League1 Alberta",
+  "source": "live_scrape",
+  "divisions": [
+    {
+      "name": "2025 Men ALberta Division",
+      "teams": [
+        {
+          "name": "CALGARY BLIZZARD MEN",
+          "GP": 16,
+          "W": 10,
+          "L": 1,
+          "T": 5,
+          "PTS": 35,
+          "GF": 38,
+          "GA": 21,
+          "GD": 17
+        },
+        {
+          "name": "ST. ALBERT IMPACT MEN",
+          "GP": 16,
+          "W": 9,
+          "L": 4,
+          "T": 3,
+          "PTS": 30,
+          "GF": 48,
+          "GA": 26,
+          "GD": 22
+        },
+        {
+          "name": "EDMONTON BTB MEN",
+          "GP": 16,
+          "W": 8,
+          "L": 3,
+          "T": 5,
+          "PTS": 29,
+          "GF": 37,
+          "GA": 21,
+          "GD": 16
+        },
+        {
+          "name": "CALGARY FOOTHILLS MEN",
+          "GP": 16,
+          "W": 8,
+          "L": 6,
+          "T": 2,
+          "PTS": 26,
+          "GF": 35,
+          "GA": 20,
+          "GD": 15
+        },
+        {
+          "name": "EDMONTON SCOTTISH L1AB M",
+          "GP": 16,
+          "W": 7,
+          "L": 4,
+          "T": 5,
+          "PTS": 26,
+          "GF": 31,
+          "GA": 27,
+          "GD": 4
+        },
+        {
+          "name": "CALGARY RANGERS SC MEN",
+          "GP": 16,
+          "W": 7,
+          "L": 5,
+          "T": 4,
+          "PTS": 25,
+          "GF": 29,
+          "GA": 24,
+          "GD": 5
+        },
+        {
+          "name": "CAVALRY FC U21",
+          "GP": 15,
+          "W": 4,
+          "L": 8,
+          "T": 3,
+          "PTS": 15,
+          "GF": 25,
+          "GA": 22,
+          "GD": 3
+        },
+        {
+          "name": "CALLIES UNITED MEN",
+          "GP": 16,
+          "W": 4,
+          "L": 11,
+          "T": 1,
+          "PTS": 13,
+          "GF": 32,
+          "GA": 55,
+          "GD": -23
+        },
+        {
+          "name": "CALGARY VILLAINS FC MEN",
+          "GP": 15,
+          "W": 0,
+          "L": 15,
+          "T": 0,
+          "PTS": 0,
+          "GF": 16,
+          "GA": 75,
+          "GD": -59
+        }
+      ]
+    }
+  ]
+}

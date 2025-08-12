@@ -1,0 +1,208 @@
+{
+  "league": "OCAA Men's Soccer",
+  "divisions": [
+    {
+      "name": "2023–24 Regular Season",
+      "teams": [
+        {
+          "name": "Algonquin",
+          "GP": "0",
+          "record": "0-0",
+          "winPct": "0.000",
+          "GF": "0",
+          "GA": "0",
+          "last10": "0-0",
+          "streak": "-",
+          "pts": "0.0"
+        },
+        {
+          "name": "Cambrian",
+          "GP": "0",
+          "record": "0-0",
+          "winPct": "0.000",
+          "GF": "0",
+          "GA": "0",
+          "last10": "0-0",
+          "streak": "-",
+          "pts": "0.0"
+        },
+        {
+          "name": "Centennial",
+          "GP": "0",
+          "record": "0-0",
+          "winPct": "0.000",
+          "GF": "0",
+          "GA": "0",
+          "last10": "0-0",
+          "streak": "-",
+          "pts": "0.0"
+        },
+        {
+          "name": "Conestoga",
+          "GP": "0",
+          "record": "0-0",
+          "winPct": "0.000",
+          "GF": "0",
+          "GA": "0",
+          "last10": "0-0",
+          "streak": "-",
+          "pts": "0.0"
+        },
+        {
+          "name": "Durham",
+          "GP": "0",
+          "record": "0-0",
+          "winPct": "0.000",
+          "GF": "0",
+          "GA": "0",
+          "last10": "0-0",
+          "streak": "-",
+          "pts": "0.0"
+        },
+        {
+          "name": "Fanshawe",
+          "GP": "0",
+          "record": "0-0",
+          "winPct": "0.000",
+          "GF": "0",
+          "GA": "0",
+          "last10": "0-0",
+          "streak": "-",
+          "pts": "0.0"
+        },
+        {
+          "name": "Fleming",
+          "GP": "0",
+          "record": "0-0",
+          "winPct": "0.000",
+          "GF": "0",
+          "GA": "0",
+          "last10": "0-0",
+          "streak": "-",
+          "pts": "0.0"
+        },
+        {
+          "name": "George Brown",
+          "GP": "0",
+          "record": "0-0",
+          "winPct": "0.000",
+          "GF": "0",
+          "GA": "0",
+          "last10": "0-0",
+          "streak": "-",
+          "pts": "0.0"
+        },
+        {
+          "name": "Humber",
+          "GP": "0",
+          "record": "0-0",
+          "winPct": "0.000",
+          "GF": "0",
+          "GA": "0",
+          "last10": "0-0",
+          "streak": "-",
+          "pts": "0.0"
+        },
+        {
+          "name": "Lakehead University Orillia",
+          "GP": "0",
+          "record": "0-0",
+          "winPct": "0.000",
+          "GF": "0",
+          "GA": "0",
+          "last10": "0-0",
+          "streak": "-",
+          "pts": "0.0"
+        },
+        {
+          "name": "Lambton",
+          "GP": "0",
+          "record": "0-0",
+          "winPct": "0.000",
+          "GF": "0",
+          "GA": "0",
+          "last10": "0-0",
+          "streak": "-",
+          "pts": "0.0"
+        },
+        {
+          "name": "Mohawk",
+          "GP": "0",
+          "record": "0-0",
+          "winPct": "0.000",
+          "GF": "0",
+          "GA": "0",
+          "last10": "0-0",
+          "streak": "-",
+          "pts": "0.0"
+        },
+        {
+          "name": "Niagara",
+          "GP": "0",
+          "record": "0-0",
+          "winPct": "0.000",
+          "GF": "0",
+          "GA": "0",
+          "last10": "0-0",
+          "streak": "-",
+          "pts": "0.0"
+        },
+        {
+          "name": "Redeemer",
+          "GP": "0",
+          "record": "0-0",
+          "winPct": "0.000",
+          "GF": "0",
+          "GA": "0",
+          "last10": "0-0",
+          "streak": "-",
+          "pts": "0.0"
+        },
+        {
+          "name": "Seneca",
+          "GP": "0",
+          "record": "0-0",
+          "winPct": "0.000",
+          "GF": "0",
+          "GA": "0",
+          "last10": "0-0",
+          "streak": "-",
+          "pts": "0.0"
+        },
+        {
+          "name": "Sheridan",
+          "GP": "0",
+          "record": "0-0",
+          "winPct": "0.000",
+          "GF": "0",
+          "GA": "0",
+          "last10": "0-0",
+          "streak": "-",
+          "pts": "0.0"
+        },
+        {
+          "name": "St. Clair",
+          "GP": "0",
+          "record": "0-0",
+          "winPct": "0.000",
+          "GF": "0",
+          "GA": "0",
+          "last10": "0-0",
+          "streak": "-",
+          "pts": "0.0"
+        },
+        {
+          "name": "St. Lawrence",
+          "GP": "0",
+          "record": "0-0",
+          "winPct": "0.000",
+          "GF": "0",
+          "GA": "0",
+          "last10": "0-0",
+          "streak": "-",
+          "pts": "0.0"
+        }
+      ]
+    }
+  ]
+}

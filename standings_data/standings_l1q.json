@@ -1,0 +1,91 @@
+{
+  "league": "Ligue1 Québec",
+  "source": "live_scrape",
+  "divisions": [
+    {
+      "name": "2025 Men Québec Division",
+      "teams": [
+        {
+          "name": "CS ST-LAURENT",
+          "GP": 15,
+          "W": 11,
+          "L": 0,
+          "T": 4,
+          "PTS": 37
+        },
+        {
+          "name": "AS LAVAL",
+          "GP": 15,
+          "W": 9,
+          "L": 5,
+          "T": 1,
+          "PTS": 28
+        },
+        {
+          "name": "CS MONT-ROYAL OUTREMONT",
+          "GP": 15,
+          "W": 8,
+          "L": 7,
+          "T": 0,
+          "PTS": 24
+        },
+        {
+          "name": "ROYAL BEAUPORT",
+          "GP": 15,
+          "W": 7,
+          "L": 6,
+          "T": 2,
+          "PTS": 23
+        },
+        {
+          "name": "FC LAVAL",
+          "GP": 14,
+          "W": 6,
+          "L": 5,
+          "T": 3,
+          "PTS": 21
+        },
+        {
+          "name": "CS ST-HUBERT",
+          "GP": 15,
+          "W": 5,
+          "L": 7,
+          "T": 3,
+          "PTS": 18
+        },
+        {
+          "name": "CELTIX HAUT RICHELIEU",
+          "GP": 15,
+          "W": 5,
+          "L": 8,
+          "T": 2,
+          "PTS": 17
+        },
+        {
+          "name": "AS BLAINVILLE",
+          "GP": 15,
+          "W": 4,
+          "L": 7,
+          "T": 4,
+          "PTS": 16
+        },
+        {
+          "name": "OTTAWA SOUTH UNITED",
+          "GP": 15,
+          "W": 3,
+          "L": 9,
+          "T": 3,
+          "PTS": 12
+        },
+        {
+          "name": "CS LONGUEUIL",
+          "GP": 14,
+          "W": 3,
+          "L": 7,
+          "T": 4,
+          "PTS": 12
+        }
+      ]
+    }
+  ]
+}

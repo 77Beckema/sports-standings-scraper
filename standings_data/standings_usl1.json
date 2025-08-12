@@ -1,0 +1,137 @@
+{
+  "league": "USL Championship",
+  "source": "uslchampionship.com",
+  "divisions": [
+    {
+      "name": "All",
+      "teams": [
+        {
+          "rank": "",
+          "name": "Chattanooga Red Wolves SC",
+          "GP": 17,
+          "W": 9,
+          "L": 2,
+          "T": 6,
+          "PTS": 33
+        },
+        {
+          "rank": "",
+          "name": "Spokane Velocity FC",
+          "GP": 17,
+          "W": 9,
+          "L": 2,
+          "T": 5,
+          "PTS": 32
+        },
+        {
+          "rank": "",
+          "name": "FC Naples",
+          "GP": 18,
+          "W": 8,
+          "L": 5,
+          "T": 5,
+          "PTS": 29
+        },
+        {
+          "rank": "",
+          "name": "Charlotte Independence",
+          "GP": 18,
+          "W": 7,
+          "L": 4,
+          "T": 7,
+          "PTS": 28
+        },
+        {
+          "rank": "",
+          "name": "One Knoxville SC",
+          "GP": 15,
+          "W": 7,
+          "L": 2,
+          "T": 6,
+          "PTS": 27
+        },
+        {
+          "rank": "",
+          "name": "AV Alta FC",
+          "GP": 17,
+          "W": 7,
+          "L": 4,
+          "T": 6,
+          "PTS": 27
+        },
+        {
+          "rank": "",
+          "name": "Texoma FC",
+          "GP": 17,
+          "W": 5,
+          "L": 6,
+          "T": 6,
+          "PTS": 21
+        },
+        {
+          "rank": "",
+          "name": "Greenville Triumph SC",
+          "GP": 18,
+          "W": 5,
+          "L": 8,
+          "T": 5,
+          "PTS": 20
+        },
+        {
+          "rank": "",
+          "name": "Portland Hearts of Pine",
+          "GP": 16,
+          "W": 4,
+          "L": 4,
+          "T": 8,
+          "PTS": 20
+        },
+        {
+          "rank": "",
+          "name": "Union Omaha",
+          "GP": 16,
+          "W": 5,
+          "L": 9,
+          "T": 2,
+          "PTS": 17
+        },
+        {
+          "rank": "",
+          "name": "Forward Madison FC",
+          "GP": 17,
+          "W": 3,
+          "L": 6,
+          "T": 8,
+          "PTS": 17
+        },
+        {
+          "rank": "",
+          "name": "Richmond Kickers",
+          "GP": 17,
+          "W": 4,
+          "L": 9,
+          "T": 4,
+          "PTS": 16
+        },
+        {
+          "rank": "",
+          "name": "South Georgia Tormenta FC",
+          "GP": 18,
+          "W": 4,
+          "L": 10,
+          "T": 4,
+          "PTS": 16
+        },
+        {
+          "rank": "",
+          "name": "Westchester SC",
+          "GP": 17,
+          "W": 3,
+          "L": 8,
+          "T": 6,
+          "PTS": 15
+        }
+      ]
+    }
+  ]
+}

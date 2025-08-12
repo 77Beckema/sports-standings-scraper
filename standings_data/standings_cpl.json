@@ -1,0 +1,90 @@
+{
+  "league": "Canadian Premier League",
+  "divisions": [
+    {
+      "name": "2025 Overall",
+      "teams": [
+        {
+          "name": "Forge",
+          "PTS": 37,
+          "GP": 17,
+          "W": 10,
+          "L": 0,
+          "T": 7,
+          "GF": 33,
+          "GA": 12
+        },
+        {
+          "name": "Atlético Ottawa",
+          "PTS": 36,
+          "GP": 17,
+          "W": 10,
+          "L": 1,
+          "T": 6,
+          "GF": 35,
+          "GA": 16
+        },
+        {
+          "name": "Cavalry",
+          "PTS": 25,
+          "GP": 17,
+          "W": 7,
+          "L": 6,
+          "T": 4,
+          "GF": 23,
+          "GA": 16
+        },
+        {
+          "name": "York United",
+          "PTS": 25,
+          "GP": 17,
+          "W": 7,
+          "L": 6,
+          "T": 4,
+          "GF": 27,
+          "GA": 20
+        },
+        {
+          "name": "HFX Wanderers",
+          "PTS": 24,
+          "GP": 17,
+          "W": 7,
+          "L": 7,
+          "T": 3,
+          "GF": 22,
+          "GA": 22
+        },
+        {
+          "name": "Pacific",
+          "PTS": 15,
+          "GP": 17,
+          "W": 4,
+          "L": 10,
+          "T": 3,
+          "GF": 16,
+          "GA": 30
+        },
+        {
+          "name": "Valour",
+          "PTS": 14,
+          "GP": 17,
+          "W": 4,
+          "L": 11,
+          "T": 2,
+          "GF": 18,
+          "GA": 41
+        },
+        {
+          "name": "Vancouver FC",
+          "PTS": 11,
+          "GP": 17,
+          "W": 2,
+          "L": 10,
+          "T": 5,
+          "GF": 17,
+          "GA": 34
+        }
+      ]
+    }
+  ]
+}
