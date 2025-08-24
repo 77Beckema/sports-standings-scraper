@@ -1,0 +1,191 @@
+{
+  "league": "OPDL U17 Girls",
+  "season": "2025",
+  "divisions": [
+    {
+      "name": "Standings",
+      "teams": [
+        {
+          "name": "Hamilton United Elite G17",
+          "GP": 3,
+          "W": 3,
+          "T": 0,
+          "L": 0,
+          "GF": 10,
+          "GA": 3,
+          "PTS": 9
+        },
+        {
+          "name": "Woodbridge G17",
+          "GP": 3,
+          "W": 2,
+          "T": 0,
+          "L": 1,
+          "GF": 12,
+          "GA": 3,
+          "PTS": 6
+        },
+        {
+          "name": "Pickering FC G17",
+          "GP": 2,
+          "W": 2,
+          "T": 0,
+          "L": 0,
+          "GF": 6,
+          "GA": 0,
+          "PTS": 6
+        },
+        {
+          "name": "Rush Canada G17",
+          "GP": 4,
+          "W": 2,
+          "T": 0,
+          "L": 2,
+          "GF": 6,
+          "GA": 6,
+          "PTS": 6
+        },
+        {
+          "name": "LFC IA Mississauga G17",
+          "GP": 3,
+          "W": 2,
+          "T": 0,
+          "L": 1,
+          "GF": 5,
+          "GA": 6,
+          "PTS": 6
+        },
+        {
+          "name": "Ottawa TFC G17",
+          "GP": 3,
+          "W": 1,
+          "T": 1,
+          "L": 1,
+          "GF": 5,
+          "GA": 5,
+          "PTS": 4
+        },
+        {
+          "name": "Markham SC G17",
+          "GP": 1,
+          "W": 0,
+          "T": 1,
+          "L": 0,
+          "GF": 1,
+          "GA": 1,
+          "PTS": 1
+        },
+        {
+          "name": "Vaughan G17",
+          "GP": 2,
+          "W": 0,
+          "T": 0,
+          "L": 2,
+          "GF": 0,
+          "GA": 3,
+          "PTS": 0
+        },
+        {
+          "name": "North Toronto SC G17",
+          "GP": 2,
+          "W": 0,
+          "T": 0,
+          "L": 2,
+          "GF": 1,
+          "GA": 7,
+          "PTS": 0
+        },
+        {
+          "name": "Kingston United G17",
+          "GP": 3,
+          "W": 0,
+          "T": 0,
+          "L": 3,
+          "GF": 1,
+          "GA": 13,
+          "PTS": 0
+        },
+        {
+          "name": "Oakville G17",
+          "GP": 2,
+          "W": 2,
+          "T": 0,
+          "L": 0,
+          "GF": 11,
+          "GA": 0,
+          "PTS": 6
+        },
+        {
+          "name": "Tecumseh SC G17",
+          "GP": 3,
+          "W": 2,
+          "T": 0,
+          "L": 1,
+          "GF": 12,
+          "GA": 4,
+          "PTS": 6
+        },
+        {
+          "name": "Burlington SC G17",
+          "GP": 2,
+          "W": 1,
+          "T": 1,
+          "L": 0,
+          "GF": 7,
+          "GA": 6,
+          "PTS": 4
+        },
+        {
+          "name": "Whitecaps London G17",
+          "GP": 2,
+          "W": 1,
+          "T": 0,
+          "L": 1,
+          "GF": 7,
+          "GA": 5,
+          "PTS": 3
+        },
+        {
+          "name": "Unionville Milliken G17",
+          "GP": 3,
+          "W": 1,
+          "T": 0,
+          "L": 2,
+          "GF": 4,
+          "GA": 16,
+          "PTS": 3
+        },
+        {
+          "name": "BVB IA Waterloo G17",
+          "GP": 2,
+          "W": 0,
+          "T": 1,
+          "L": 1,
+          "GF": 3,
+          "GA": 6,
+          "PTS": 1
+        },
+        {
+          "name": "Whitby FC G17",
+          "GP": 2,
+          "W": 0,
+          "T": 1,
+          "L": 1,
+          "GF": 1,
+          "GA": 4,
+          "PTS": 1
+        },
+        {
+          "name": "Aurora FC G17",
+          "GP": 2,
+          "W": 0,
+          "T": 1,
+          "L": 1,
+          "GF": 1,
+          "GA": 5,
+          "PTS": 1
+        }
+      ]
+    }
+  ]
+}

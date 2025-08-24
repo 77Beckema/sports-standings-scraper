@@ -1,0 +1,181 @@
+{
+  "league": "OPDL U17 Boys",
+  "season": "2025",
+  "divisions": [
+    {
+      "name": "Standings",
+      "teams": [
+        {
+          "name": "Woodbridge B17",
+          "GP": 2,
+          "W": 2,
+          "T": 0,
+          "L": 0,
+          "GF": 8,
+          "GA": 2,
+          "PTS": 6
+        },
+        {
+          "name": "Whitecaps London B17",
+          "GP": 3,
+          "W": 2,
+          "T": 0,
+          "L": 1,
+          "GF": 9,
+          "GA": 6,
+          "PTS": 6
+        },
+        {
+          "name": "Vaughan B17",
+          "GP": 2,
+          "W": 2,
+          "T": 0,
+          "L": 0,
+          "GF": 5,
+          "GA": 3,
+          "PTS": 6
+        },
+        {
+          "name": "Markham SC B17",
+          "GP": 2,
+          "W": 1,
+          "T": 0,
+          "L": 1,
+          "GF": 5,
+          "GA": 3,
+          "PTS": 3
+        },
+        {
+          "name": "North Toronto SC B17",
+          "GP": 1,
+          "W": 1,
+          "T": 0,
+          "L": 0,
+          "GF": 5,
+          "GA": 3,
+          "PTS": 3
+        },
+        {
+          "name": "London TFC Academy B17",
+          "GP": 3,
+          "W": 1,
+          "T": 0,
+          "L": 2,
+          "GF": 7,
+          "GA": 8,
+          "PTS": 3
+        },
+        {
+          "name": "Aurora FC B17",
+          "GP": 2,
+          "W": 1,
+          "T": 0,
+          "L": 1,
+          "GF": 3,
+          "GA": 4,
+          "PTS": 3
+        },
+        {
+          "name": "Oakville B17",
+          "GP": 3,
+          "W": 1,
+          "T": 0,
+          "L": 2,
+          "GF": 5,
+          "GA": 8,
+          "PTS": 3
+        },
+        {
+          "name": "Pickering FC B17",
+          "GP": 1,
+          "W": 0,
+          "T": 0,
+          "L": 1,
+          "GF": 2,
+          "GA": 4,
+          "PTS": 0
+        },
+        {
+          "name": "Whitby FC B17",
+          "GP": 3,
+          "W": 0,
+          "T": 0,
+          "L": 3,
+          "GF": 3,
+          "GA": 11,
+          "PTS": 0
+        },
+        {
+          "name": "Toronto High Park FC B17",
+          "GP": 2,
+          "W": 2,
+          "T": 0,
+          "L": 0,
+          "GF": 11,
+          "GA": 1,
+          "PTS": 6
+        },
+        {
+          "name": "Cambridge United B17",
+          "GP": 2,
+          "W": 2,
+          "T": 0,
+          "L": 0,
+          "GF": 11,
+          "GA": 5,
+          "PTS": 6
+        },
+        {
+          "name": "Rush Canada B17",
+          "GP": 3,
+          "W": 1,
+          "T": 1,
+          "L": 1,
+          "GF": 6,
+          "GA": 5,
+          "PTS": 4
+        },
+        {
+          "name": "Kingston United B17",
+          "GP": 3,
+          "W": 1,
+          "T": 1,
+          "L": 1,
+          "GF": 8,
+          "GA": 10,
+          "PTS": 4
+        },
+        {
+          "name": "Richmond Hill B17",
+          "GP": 3,
+          "W": 0,
+          "T": 3,
+          "L": 0,
+          "GF": 5,
+          "GA": 5,
+          "PTS": 3
+        },
+        {
+          "name": "Burlington SC B17",
+          "GP": 2,
+          "W": 0,
+          "T": 1,
+          "L": 1,
+          "GF": 6,
+          "GA": 10,
+          "PTS": 1
+        },
+        {
+          "name": "LFC IA Mississauga B17",
+          "GP": 3,
+          "W": 0,
+          "T": 0,
+          "L": 3,
+          "GF": 2,
+          "GA": 13,
+          "PTS": 0
+        }
+      ]
+    }
+  ]
+}
